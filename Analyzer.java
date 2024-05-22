@@ -1,4 +1,3 @@
-// Project by Sunny Hardyal & Alexis Gonzalez
 import java.io.*;
 import java.util.*;
 
